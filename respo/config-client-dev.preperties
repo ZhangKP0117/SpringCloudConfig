@@ -1,4 +1,4 @@
-zkp= zkp version 123
+foo = foo version 21
 democonfigclient.message=hello spring io
 
 # routes to serviceId
